@@ -7,6 +7,13 @@ GitHub Repository Monitoring System is a Python-based command-line application t
 
 The application uses the GitHub REST API to retrieve repository commit information and compares the latest commit SHA with the previously stored SHA. If a new commit is detected, the application notifies the user through the terminal.
 
+
+HOW TO USE THE PROGRAM:
+
+First write (pip install -r requirements.txt) command without brackets.
+Secondly, write (python main.py) command without brackets.
+
+
 Features
 
 Add public GitHub repositories to the monitoring list.
